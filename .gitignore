@@ -2,3 +2,5 @@
 .vscode/
 
 Standard Exceptions/stdExceptions
+
+Custom Exceptions/cstmExceptions
